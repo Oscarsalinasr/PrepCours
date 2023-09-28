@@ -1,2 +1,2 @@
 # PrepCours
-este es un repositorio de prueba del tema 2
+este proyecto es un prueba de como crea un repositorio y clonarlo en mi escritorio
